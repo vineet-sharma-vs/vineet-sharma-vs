@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineet-sharma-vs
+- 👋 Hi, I’m vineet kumar, final year Btech Engineering student from IIIT Allahabad.
 - 👀 I’m interested in learning new technologies, mathematics (Number Theory, Geometry),explore web-development 
 - 🌱 I’m currently learning how to enhance / optimize learning skills
 - 💞️ I’m looking to collaborate on my youtube channel
